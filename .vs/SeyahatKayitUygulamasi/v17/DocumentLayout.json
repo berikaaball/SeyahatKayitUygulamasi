@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BERIKA\\Desktop\\dersler\\SeyahatKayitUygulamasi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01ADA7C8-A55B-4F9B-8718-9D873ACCE6E4}|SeyahatKayitUygulamasi\\SeyahatKayitUygulamasi\\SeyahatKayitUygulamasi.csproj|c:\\users\\berika\\desktop\\dersler\\seyahatkayituygulamasi\\seyahatkayituygulamasi\\seyahatkayituygulamasi\\homepage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{01ADA7C8-A55B-4F9B-8718-9D873ACCE6E4}|SeyahatKayitUygulamasi\\SeyahatKayitUygulamasi\\SeyahatKayitUygulamasi.csproj|solutionrelative:seyahatkayituygulamasi\\seyahatkayituygulamasi\\homepage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01ADA7C8-A55B-4F9B-8718-9D873ACCE6E4}|SeyahatKayitUygulamasi\\SeyahatKayitUygulamasi\\SeyahatKayitUygulamasi.csproj|c:\\users\\berika\\desktop\\dersler\\seyahatkayituygulamasi\\seyahatkayituygulamasi\\seyahatkayituygulamasi\\views\\aboutpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01ADA7C8-A55B-4F9B-8718-9D873ACCE6E4}|SeyahatKayitUygulamasi\\SeyahatKayitUygulamasi\\SeyahatKayitUygulamasi.csproj|solutionrelative:seyahatkayituygulamasi\\seyahatkayituygulamasi\\views\\aboutpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01ADA7C8-A55B-4F9B-8718-9D873ACCE6E4}|SeyahatKayitUygulamasi\\SeyahatKayitUygulamasi\\SeyahatKayitUygulamasi.csproj|c:\\users\\berika\\desktop\\dersler\\seyahatkayituygulamasi\\seyahatkayituygulamasi\\seyahatkayituygulamasi\\views\\aboutpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{01ADA7C8-A55B-4F9B-8718-9D873ACCE6E4}|SeyahatKayitUygulamasi\\SeyahatKayitUygulamasi\\SeyahatKayitUygulamasi.csproj|solutionrelative:seyahatkayituygulamasi\\seyahatkayituygulamasi\\views\\aboutpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomePage.xaml",
+              "DocumentMoniker": "C:\\Users\\BERIKA\\Desktop\\dersler\\SeyahatKayitUygulamasi\\SeyahatKayitUygulamasi\\SeyahatKayitUygulamasi\\HomePage.xaml",
+              "RelativeDocumentMoniker": "SeyahatKayitUygulamasi\\SeyahatKayitUygulamasi\\HomePage.xaml",
+              "ToolTip": "C:\\Users\\BERIKA\\Desktop\\dersler\\SeyahatKayitUygulamasi\\SeyahatKayitUygulamasi\\SeyahatKayitUygulamasi\\HomePage.xaml",
+              "RelativeToolTip": "SeyahatKayitUygulamasi\\SeyahatKayitUygulamasi\\HomePage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-15T22:14:30.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AboutPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\BERIKA\\Desktop\\dersler\\SeyahatKayitUygulamasi\\SeyahatKayitUygulamasi\\SeyahatKayitUygulamasi\\Views\\AboutPage.xaml.cs",
+              "RelativeDocumentMoniker": "SeyahatKayitUygulamasi\\SeyahatKayitUygulamasi\\Views\\AboutPage.xaml.cs",
+              "ToolTip": "C:\\Users\\BERIKA\\Desktop\\dersler\\SeyahatKayitUygulamasi\\SeyahatKayitUygulamasi\\SeyahatKayitUygulamasi\\Views\\AboutPage.xaml.cs",
+              "RelativeToolTip": "SeyahatKayitUygulamasi\\SeyahatKayitUygulamasi\\Views\\AboutPage.xaml.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBUAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T22:10:32.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AboutPage.xaml",
+              "DocumentMoniker": "C:\\Users\\BERIKA\\Desktop\\dersler\\SeyahatKayitUygulamasi\\SeyahatKayitUygulamasi\\SeyahatKayitUygulamasi\\Views\\AboutPage.xaml",
+              "RelativeDocumentMoniker": "SeyahatKayitUygulamasi\\SeyahatKayitUygulamasi\\Views\\AboutPage.xaml",
+              "ToolTip": "C:\\Users\\BERIKA\\Desktop\\dersler\\SeyahatKayitUygulamasi\\SeyahatKayitUygulamasi\\SeyahatKayitUygulamasi\\Views\\AboutPage.xaml",
+              "RelativeToolTip": "SeyahatKayitUygulamasi\\SeyahatKayitUygulamasi\\Views\\AboutPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-15T21:45:47.152Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
